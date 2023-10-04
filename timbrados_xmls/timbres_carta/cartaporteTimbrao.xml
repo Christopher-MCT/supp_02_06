@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante Certificado="MIIFsDCCA5igAwIBAgIUMzAwMDEwMDAwMDA1MDAwMDM0MTYwDQYJKoZIhvcNAQELBQAwggErMQ8wDQYDVQQDDAZBQyBVQVQxLjAsBgNVBAoMJVNFUlZJQ0lPIERFIEFETUlOSVNUUkFDSU9OIFRSSUJVVEFSSUExGjAYBgNVBAsMEVNBVC1JRVMgQXV0aG9yaXR5MSgwJgYJKoZIhvcNAQkBFhlvc2Nhci5tYXJ0aW5lekBzYXQuZ29iLm14MR0wGwYDVQQJDBQzcmEgY2VycmFkYSBkZSBjYWxpejEOMAwGA1UEEQwFMDYzNzAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBDSVVEQUQgREUgTUVYSUNPMREwDwYDVQQHDAhDT1lPQUNBTjERMA8GA1UELRMIMi41LjQuNDUxJTAjBgkqhkiG9w0BCQITFnJlc3BvbnNhYmxlOiBBQ0RNQS1TQVQwHhcNMjMwNTE4MTE0MzUxWhcNMjcwNTE4MTE0MzUxWjCB1zEnMCUGA1UEAxMeRVNDVUVMQSBLRU1QRVIgVVJHQVRFIFNBIERFIENWMScwJQYDVQQpEx5FU0NVRUxBIEtFTVBFUiBVUkdBVEUgU0EgREUgQ1YxJzAlBgNVBAoTHkVTQ1VFTEEgS0VNUEVSIFVSR0FURSBTQSBERSBDVjElMCMGA1UELRMcRUtVOTAwMzE3M0M5IC8gVkFEQTgwMDkyN0RKMzEeMBwGA1UEBRMVIC8gVkFEQTgwMDkyN0hTUlNSTDA1MRMwEQYDVQQLEwpTdWN1cnNhbCAxMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtmecO6n2GS0zL025gbHGQVxznPDICoXzR2uUngz4DqxVUC/w9cE6FxSiXm2ap8Gcjg7wmcZfm85EBaxCx/0J2u5CqnhzIoGCdhBPuhWQnIh5TLgj/X6uNquwZkKChbNe9aeFirU/JbyN7Egia9oKH9KZUsodiM/pWAH00PCtoKJ9OBcSHMq8Rqa3KKoBcfkg1ZrgueffwRLws9yOcRWLb02sDOPzGIm/jEFicVYt2Hw1qdRE5xmTZ7AGG0UHs+unkGjpCVeJ+BEBn0JPLWVvDKHZAQMj6s5Bku35+d/MyATkpOPsGT/VTnsouxekDfikJD1f7A1ZpJbqDpkJnss3vQIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQsFAAOCAgEAFaUgj5PqgvJigNMgtrdXZnbPfVBbukAbW4OGnUhNrA7SRAAfv2BSGk16PI0nBOr7qF2mItmBnjgEwk+DTv8Zr7w5qp7vleC6dIsZFNJoa6ZndrE/f7KO1CYruLXr5gwEkIyGfJ9NwyIagvHHMszzyHiSZIA850fWtbqtythpAliJ2jF35M5pNS+YTkRB+T6L/c6m00ymN3q9lT1rB03YywxrLreRSFZOSrbwWfg34EJbHfbFXpCSVYdJRfiVdvHnewN0r5fUlPtR9stQHyuqewzdkyb5jTTw02D2cUfL57vlPStBj7SEi3uOWvLrsiDnnCIxRMYJ2UA2ktDKHk+zWnsDmaeleSzonv2CHW42yXYPCvWi88oE1DJNYLNkIjua7MxAnkNZbScNw01A6zbLsZ3y8G6eEYnxSTRfwjd8EP4kdiHNJftm7Z4iRU7HOVh79/lRWB+gd171s3d/mI9kte3MRy6V8MMEMCAnMboGpaooYwgAmwclI2XZCczNWXfhaWe0ZS5PmytD/GDpXzkX0oEgY9K/uYo5V77NdZbGAjmyi8cE2B2ogvyaN2XfIInrZPgEffJ4AB7kFA2mwesdLOCh0BLD9itmCve3A1FGR4+stO2ANUoiI3w3Tv2yQSg4bjeDlJ08lXaaFCLW2peEXMXjQUk7fmpb5MNuOUTW6BE=" Exportacion="01" Fecha="2023-10-01T10:37:52" Folio="1" FormaPago="02" LugarExpedicion="58000" MetodoPago="PUE" Moneda="MXN" NoCertificado="30001000000500003416" Sello="lkUwRwswP8HA9sqatyS3G5Yk+ddEhrr7snW4OQKY2+fMJUWXUdgAtQQ5Au0A9IV1u+J4ve57Q+FRnCfPvQN876Kqb9B2On0wEu+v+yGtBj6Df7Fa4AOCONyXr4ASqQZENIpNWN9jaBskwOW7lQcOROE1S92Z+y/I/AHSYITOriMRhAW6xOf2akkD2ZeH16ZPS7R0H04/wLdpm7BkfbZ1kn/dcuiWW5SwhMQtIoHI9Sy0YO1H/PopNmKBfb665yfvdR1YDDOyNJCUcZNoovfWMTcIcyh5II84HnBuVjR6Cm/oCVvAzGL9C2Urf8ZbkNwftq7ox+loom0nWJbnl4RveQ==" Serie="A" SubTotal="6474.81" TipoCambio="1" TipoDeComprobante="I" Total="7510.77" Version="4.0" xmlns:cartaporte20="http://www.sat.gob.mx/CartaPorte20" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd http://www.sat.gob.mx/CartaPorte20 http://www.sat.gob.mx/sitio_internet/cfd/CartaPorte/CartaPorte20.xsd">
+  <cfdi:Emisor Nombre="ESCUELA KEMPER URGATE" RegimenFiscal="601" Rfc="EKU9003173C9"/>
+  <cfdi:Receptor DomicilioFiscalReceptor="86400" Nombre="FELIX MANUEL ANDRADE BALLADO" RegimenFiscalReceptor="616" Rfc="AABF800614HI0" UsoCFDI="S01"/>
+  <cfdi:Conceptos>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="78101501" ClaveUnidad="CE" Descripcion="ARRENDAMIENTO DE JUAREZ PTE 108-A" Importe="6474.81" NoIdentificacion="00001" ObjetoImp="02" Unidad="CE" ValorUnitario="6474.81">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="6474.81" Importe="1035.96" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="1035.96">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="6474.81" Importe="1035.96" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa"/>
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <cartaporte20:CartaPorte TotalDistRec="75.00" TranspInternac="No" Version="2.0">
+      <cartaporte20:Ubicaciones>
+        <cartaporte20:Ubicacion FechaHoraSalidaLlegada="2021-11-09T10:04:00" RFCRemitenteDestinatario="EKU9003173C9" TipoUbicacion="Origen">
+          <cartaporte20:Domicilio Calle="Calle" CodigoPostal="50009" Colonia="0162" Estado="MEX" Localidad="20" Municipio="106" NumeroExterior="63" Pais="MEX"/>
+        </cartaporte20:Ubicacion>
+        <cartaporte20:Ubicacion DistanciaRecorrida="75.00" FechaHoraSalidaLlegada="2021-11-10T14:00:00" RFCRemitenteDestinatario="IVD920810GU2" TipoUbicacion="Destino">
+          <cartaporte20:Domicilio Calle="Calle" CodigoPostal="50009" Colonia="0162" Estado="MEX" Localidad="20" Municipio="106" NumeroExterior="63" Pais="MEX"/>
+        </cartaporte20:Ubicacion>
+      </cartaporte20:Ubicaciones>
+      <cartaporte20:Mercancias NumTotalMercancias="1" PesoBrutoTotal="35.00" UnidadPeso="KGM">
+        <cartaporte20:Mercancia BienesTransp="50202513" Cantidad="15.00" ClaveUnidad="KGM" Descripcion="mercancia" Moneda="MXN" PesoEnKg="35.00" ValorMercancia="1740.00"/>
+        <cartaporte20:Autotransporte NumPermisoSCT="PER012345" PermSCT="TPAF03">
+          <cartaporte20:IdentificacionVehicular AnioModeloVM="2020" ConfigVehicular="VL" PlacaVM="ABC3215"/>
+          <cartaporte20:Seguros AseguraRespCivil="AAA-33B" PolizaRespCivil="ACD-H23"/>
+          <cartaporte20:Remolques>
+            <cartaporte20:Remolque Placa="YYY1234" SubTipoRem="CTR005"/>
+          </cartaporte20:Remolques>
+        </cartaporte20:Autotransporte>
+      </cartaporte20:Mercancias>
+      <cartaporte20:FiguraTransporte>
+        <cartaporte20:TiposFigura NumLicencia="123456" RFCFigura="XIQB891116QE4" TipoFigura="01"/>
+      </cartaporte20:FiguraTransporte>
+    </cartaporte20:CartaPorte>
+    <tfd:TimbreFiscalDigital FechaTimbrado="2023-10-04T04:36:04" NoCertificadoSAT="30001000000500003456" RfcProvCertif="CVD110412TF6" SelloCFD="lkUwRwswP8HA9sqatyS3G5Yk+ddEhrr7snW4OQKY2+fMJUWXUdgAtQQ5Au0A9IV1u+J4ve57Q+FRnCfPvQN876Kqb9B2On0wEu+v+yGtBj6Df7Fa4AOCONyXr4ASqQZENIpNWN9jaBskwOW7lQcOROE1S92Z+y/I/AHSYITOriMRhAW6xOf2akkD2ZeH16ZPS7R0H04/wLdpm7BkfbZ1kn/dcuiWW5SwhMQtIoHI9Sy0YO1H/PopNmKBfb665yfvdR1YDDOyNJCUcZNoovfWMTcIcyh5II84HnBuVjR6Cm/oCVvAzGL9C2Urf8ZbkNwftq7ox+loom0nWJbnl4RveQ==" SelloSAT="Ajk9UT5iy2JFscUCC53TP0LigIyRAWvBZveeb3DHmSiiw2VQb/gtgQzsFcedeZFCf/bgse2ik7GYQmZ3ATr57IRFv9nEmMMyJE+G3kWBdgwvrTpve02Yht6ZDvFkAfoOQaFmA1nbcD3qRAL2qj/SCSP4SG0WRMuYXhQu2R4GMr1dwGtJPVe9yVJU2qRUCn8tLr5rWAuuyePbaeCVg2wgbqLB/6x5rhU3ZmQQFIL1Rh7Mke3jy0S8fhqKJulH0MHqFH2Wo5rWUKE/qXjMr9GuStUzF4qh4YKm5lw7/hs6bmeJ8UOfZD756tJdIBJZ1OUZ2h5RrNzymET+hse9BAKKBw==" UUID="206E7556-AEC6-5027-9FD7-8DFEB22E679F" Version="1.1" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd"/>
+  </cfdi:Complemento>
+</cfdi:Comprobante>

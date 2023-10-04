@@ -1,0 +1,44 @@
+openssl x509 -inform DER -outform PEM -in "/home/ccalix/Documentos/soporte_tecnico/actividades_02_06_oct/kemper/CSD_Sucursal_1_EKU9003173C9_20230517_223850.cer" -pubkey -out "/home/ccalix/Documentos/soporte_tecnico/actividades_02_06_oct/kemper/CSD_Sucursal_1_EKU9003173C9_20230517_223850.cer.pem"
+
+
+openssl pkcs8 -inform DER -in "/home/ccalix/Documentos/soporte_tecnico/actividades_02_06_oct/kemper/CSD_Sucursal_1_EKU9003173C9_20230517_223850.key" -passin pass:12345678a -out "/home/ccalix/Documentos/soporte_tecnico/actividades_02_06_oct/kemper/CSD_Sucursal_1_EKU9003173C9_20230517_223850.key.pem"
+
+
+openssl rsa -in "/home/ccalix/Documentos/soporte_tecnico/actividades_02_06_oct/kemper/CSD_Sucursal_1_EKU9003173C9_20230517_223850.key.pem" -des3 -out "/home/ccalix/Documentos/soporte_tecnico/actividades_02_06_oct/kemper/CSD_Sucursal_1_EKU9003173C9_20230517_223850.enc" -passout pass:'Legoland1953!'
+
+## ----------------------------- >
+
+xsltproc "/home/ccalix/Documentos/soporte_tecnico/actividades_02_06_oct/xslt/cadenaoriginal_4_0.xslt" "/home/ccalix/Documentos/soporte_tecnico/actividades_02_06_oct/matriz_errores/CFDI/CFDI40104.xml" > "/home/ccalix/Documentos/soporte_tecnico/actividades_02_06_oct/sello/cadena.txt"
+
+
+## ----------------------------- >
+
+openssl dgst -sha256 -out "/home/ccalix/Documentos/soporte_tecnico/actividades_02_06_oct/sello/sign.bin" -sign "/home/ccalix/Documentos/soporte_tecnico/actividades_02_06_oct/kemper/CSD_Sucursal_1_EKU9003173C9_20230517_223850.key.pem" "/home/ccalix/Documentos/soporte_tecnico/actividades_02_06_oct/sello/cadena.txt"
+
+
+
+
+openssl enc -in "/home/ccalix/Documentos/soporte_tecnico/actividades_02_06_oct/sello/sign.bin" -a -A -out "/home/ccalix/Documentos/soporte_tecnico/actividades_02_06_oct/sello/sello.txt"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
